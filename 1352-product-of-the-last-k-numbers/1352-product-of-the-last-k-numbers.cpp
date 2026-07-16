@@ -19,7 +19,7 @@ public:
         for (int i = n - k; i < n; i++) {
             product *= nums[i];
         }
-
-        return product;
+      return product;
+        
     }
 };
