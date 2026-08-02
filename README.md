@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0031-next-permutation) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Math
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
