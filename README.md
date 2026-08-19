@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Design
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Two Pointers
 |  |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union-Find
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
