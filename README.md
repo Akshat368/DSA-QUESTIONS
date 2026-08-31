@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
+| [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0031-next-permutation) |
+| [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -119,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0015-3sum) |
+| [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
