@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0018-4sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
