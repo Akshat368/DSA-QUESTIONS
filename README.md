@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
@@ -136,9 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
