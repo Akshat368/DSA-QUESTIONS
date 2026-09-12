@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -149,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
