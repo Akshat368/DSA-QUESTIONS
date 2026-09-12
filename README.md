@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
+| [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 ## Greedy
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
