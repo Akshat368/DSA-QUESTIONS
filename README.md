@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
