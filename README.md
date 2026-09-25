@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0930-binary-subarrays-with-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0881-boats-to-save-people](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -165,12 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Quicksort
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
