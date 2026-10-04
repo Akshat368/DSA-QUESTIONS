@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0290-word-pattern](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
