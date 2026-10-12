@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2352-equal-row-and-column-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2352-equal-row-and-column-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1512-number-of-good-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2352-equal-row-and-column-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2352-equal-row-and-column-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
+| [2352-equal-row-and-column-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2352-equal-row-and-column-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
