@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1512-number-of-good-pairs) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1512-number-of-good-pairs) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2352-equal-row-and-column-pairs) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0881-boats-to-save-people) |
+## Depth-First Search
+|  |
+| ------- |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 <!---LeetCode Topics End-->
