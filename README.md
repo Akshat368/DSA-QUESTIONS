@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
