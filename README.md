@@ -226,5 +226,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+## Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
