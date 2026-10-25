@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0152-maximum-product-subarray) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0881-boats-to-save-people) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
