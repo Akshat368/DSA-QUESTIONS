@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1512-number-of-good-pairs) |
+| [2409-count-days-spent-together](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3871-count-commas-in-range-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2409-count-days-spent-together](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |
