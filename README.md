@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1352-product-of-the-last-k-numbers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0162-find-peak-element) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
