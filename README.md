@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1248-count-number-of-nice-subarrays) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0050-powx-n) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
