@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1512-number-of-good-pairs) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
