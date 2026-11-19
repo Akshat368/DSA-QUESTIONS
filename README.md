@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2352-equal-row-and-column-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat368/DSA-QUESTIONS/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
